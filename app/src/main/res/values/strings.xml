@@ -1,0 +1,522 @@
+<resources>
+    <string name="app_name">recetas_app</string>
+
+
+        <string-array name="food_categories">
+            <item>Desayunos</item>
+            <item>Almuerzos</item>
+            <item>Cenas</item>
+            <item>Postres</item>
+        </string-array>
+
+        <string-array name="desayunos">
+            <item>Tacos</item>
+            <item>Omelette</item>
+            <item>Hot Cakes Clásicos</item>
+            <item>Tamales de Calabaza</item>
+            <item>Licuado de Plátano con Avena</item>
+
+
+        </string-array>
+
+        <string-array name="almuerzos">
+            <item>Hamburguesa</item>
+            <item>Pasta</item>
+            <item>Pasteles en hoja</item>
+            <item>Pastelon de platano maduro</item>
+            <item>Niño envuelto dominicano</item>
+
+        </string-array>
+
+        <string-array name="cenas">
+            <item>Sushi</item>
+            <item>Pizza</item>
+            <item>Crema de verduras con espárragos y espinacas</item>
+            <item>Sopa de verduras en juliana</item>
+            <item>Crema de calabacín fácil</item>
+
+        </string-array>
+
+        <string-array name="postres">
+            <item>Helado</item>
+            <item>Tarta de Chocolate</item>
+            <item>Brownie de chocolate</item>
+            <item>Churros caseros</item>
+            <item>Dulce de leche casero</item>
+
+        </string-array>
+
+        <!-- Recetas para comidas -->
+        <string name="receta_tacos">
+       Los tacos son un platillo tradicional de la comida mexicana. Ingredientes:\n
+        - Tortillas de maíz o harina\n
+        - Carne de res o pollo\n
+        - Cebolla picada\n
+        - Cilantro\n
+        - Salsa\n
+        - Limón\n
+        Preparación:\n
+        1. Cocina la carne con cebolla y cilantro.\n
+        2. Calienta las tortillas.\n
+        3. Rellena las tortillas con la carne cocida.\n
+        4. Agrega salsa y limón al gusto.\n
+        ¡Disfruta tus tacos!
+    </string>
+
+        <string name="receta_sushi">
+     El sushi es una deliciosa preparación japonesa. Ingredientes:\n
+        - Alga nori\n
+        - Arroz\n
+        - Pescado fresco (salmón, atún, etc.)\n
+        - Aguacate\n
+        - Pepino\n
+        - Wasabi\n
+        - Salsa de soja\n
+        Preparación:\n
+        1. Extiende el alga nori sobre una esterilla de bambú.\n
+        2. Cubre el alga con una capa fina de arroz.\n
+        3. Coloca tiras de pescado, aguacate y pepino sobre el arroz.\n
+        4. Enrolla el alga con la ayuda de la esterilla.\n
+        5. Corta el rollo en porciones.\n
+        6. Sirve con wasabi y salsa de soja.\n
+        ¡Disfruta tu sushi!
+    </string>
+
+        <string name="receta_pizza">
+       La pizza es un plato italiano muy popular. Ingredientes:\n
+        - Masa de pizza\n
+        - Salsa de tomate\n
+        - Queso mozzarella\n
+        - Ingredientes a elección (pepperoni, champiñones, etc.)\n
+        - Orégano\n
+        Preparación:\n
+        1. Estira la masa de pizza en una bandeja.\n
+        2. Extiende una capa de salsa de tomate.\n
+        3. Cubre con queso mozzarella y los ingredientes elegidos.\n
+        4. Espolvorea orégano sobre la pizza.\n
+        5. Hornea a 200°C hasta que esté dorada.\n
+        ¡Disfruta tu pizza!
+    </string>
+
+        <string name="receta_omellete">
+            El omelette es un plato delicioso y fácil de preparar. Ingredientes:\n
+    - 2 huevos\n
+    - Sal y pimienta al gusto\n
+    - Mantequilla o aceite de cocina\n
+    - Ingredientes a elección (jamón, queso, cebolla, pimientos, champiñones, etc.)\n
+    Preparación:\n
+    1. Rompe los huevos en un tazón y bátelos con un tenedor o un batidor de mano. Añade sal y pimienta al gusto.\n
+    2. Calienta una sartén antiadherente a fuego medio y agrega una cucharada de mantequilla o aceite.\n
+    3. Cuando la mantequilla esté derretida y burbujeante (o el aceite esté caliente), vierte los huevos batidos en la sartén.\n
+    4. Mientras los huevos se cocinan, puedes añadir los ingredientes de tu elección (jamón, queso, cebolla, pimientos, champiñones, etc.) sobre un lado de los huevos.\n
+    5. Cuando los bordes del omelette estén cocidos y el centro esté todavía un poco líquido, dobla el omelette por la mitad con una espátula.\n
+    6. Cocina por unos minutos más hasta que el centro esté cocido, pero aún jugoso.\n
+    7. Desliza el omelette cocido en un plato y sírvelo caliente.\n
+    ¡Disfruta de tu omelette!
+
+        </string>
+
+    <string name="receta_hot_cakes_clasicos">
+
+         Los hot cakes clásicos son un desayuno delicioso y sencillo de preparar. Ingredientes:\n
+    - 1 taza de harina de trigo\n
+    - 2 cucharadas de azúcar\n
+    - 1 cucharadita de polvo de hornear\n
+    - 1/2 cucharadita de sal\n
+    - 1 huevo\n
+    - 1 taza de leche\n
+    - 2 cucharadas de mantequilla derretida\n
+    Preparación:\n
+    1. En un tazón grande, mezcla la harina, el azúcar, el polvo de hornear y la sal.\n
+    2. En otro tazón, bate el huevo y luego añade la leche y la mantequilla derretida. Mezcla bien.\n
+    3. Vierte la mezcla líquida sobre los ingredientes secos y revuelve hasta que la masa esté suave. No mezcles en exceso; está bien si hay algunos grumos.\n
+    4. Calienta una sartén antiadherente a fuego medio y unta un poco de mantequilla o aceite en ella.\n
+    5. Vierte un cucharón de masa en la sartén caliente para formar cada hot cake. Cocina hasta que aparezcan burbujas en la superficie y los bordes estén dorados, luego voltea y cocina el otro lado hasta que esté dorado.\n
+    6. Repite el proceso con el resto de la masa.\n
+    7. Sirve los hot cakes calientes con jarabe de arce, miel o tus ingredientes favoritos.\n
+    ¡Disfruta de tus hot cakes clásicos!
+
+
+    </string>
+
+    <string name="receta_tamales_de_calabaza">
+           Los tamales de calabaza son una deliciosa opción para disfrutar en cualquier ocasión. Ingredientes:\n
+    - 2 tazas de masa de maíz\n
+    - 1/2 taza de manteca de cerdo o aceite vegetal\n
+    - 1 taza de puré de calabaza\n
+    - 1 taza de caldo de pollo o vegetal\n
+    - 1 cucharadita de polvo de hornear\n
+    - 1 cucharadita de sal\n
+    - 1 taza de queso rallado (opcional)\n
+    - Hojas de maíz secas (hojas de tamal) remojadas en agua caliente para ablandarlas\n
+    Relleno (opcional):\n
+    - Pollo desmenuzado, carne de cerdo o verduras al gusto\n
+    - Salsa de tomate, chiles, y especias al gusto\n
+    Preparación:\n
+    1. En un tazón grande, mezcla la masa de maíz, la manteca o aceite, el puré de calabaza, el caldo de pollo o vegetal, el polvo de hornear y la sal. Mezcla bien hasta obtener una masa suave y homogénea.\n
+    2. Si deseas agregar queso, mézclalo en la masa en este paso.\n
+    3. Lava y seca las hojas de maíz remojadas.\n
+    4. Extiende una hoja de tamal y coloca una porción de masa en el centro. Agrega el relleno (pollo, carne, verduras, salsa) si lo deseas.\n
+    5. Doble los lados de la hoja hacia el centro y luego los extremos hacia arriba, envolviendo el tamal de manera segura.\n
+    6. Repite este proceso con el resto de la masa y el relleno.\n
+    7. Coloca los tamales en una vaporera y cocina al vapor durante aproximadamente 1.5 a 2 horas, o hasta que la masa esté cocida y firme.\n
+    8. Sirve los tamales calientes y disfrútalos con una salsa de tu elección.\n
+    ¡Disfruta de tus tamales de calabaza caseros!
+    </string>
+
+    <string name="receta_licuado_de_platano_con_avena">
+         El licuado de plátano con avena es una opción deliciosa y saludable para un desayuno o merienda rápida. Ingredientes:\n
+    - 2 plátanos maduros\n
+    - 1 taza de leche (puede ser leche de vaca, almendra, soja, etc.)\n
+    - 1/2 taza de avena\n
+    - 1 cucharada de miel o azúcar (opcional, para endulzar al gusto)\n
+    - 1/2 cucharadita de canela en polvo (opcional, para dar sabor)\n
+    - Cubitos de hielo (opcional)\n
+    Preparación:\n
+    1. Pelar los plátanos y cortarlos en trozos.\n
+    2. En una licuadora, añadir los trozos de plátano, la leche, la avena, la miel o el azúcar (si se desea) y la canela en polvo (si se desea).\n
+    3. Si prefieres que el licuado esté frío y más espeso, puedes agregar cubitos de hielo en este punto.\n
+    4. Licuar todos los ingredientes hasta obtener una mezcla suave y homogénea.\n
+    5. Prueba el licuado y ajusta la dulzura o el espesor según tu preferencia, agregando más miel, azúcar o leche si es necesario.\n
+    6. Sirve el licuado de plátano con avena en un vaso alto y disfrútalo de inmediato.\n
+    ¡Disfruta de tu licuado de plátano con avena, lleno de energía y sabor!
+    </string>
+
+    <string name="receta_hamburguesa">
+         Preparar una hamburguesa casera es delicioso y sencillo. Ingredientes:\n
+    - 1 libra (450 gramos) de carne molida (res, cerdo, pavo o pollo)\n
+    - 1/2 cucharadita de sal\n
+    - 1/4 cucharadita de pimienta negra molida\n
+    - 4 bollos de hamburguesa\n
+    - Lechuga, tomate, cebolla, pepinillos y otros condimentos al gusto\n
+    - Queso cheddar o su elección (opcional)\n
+    - Salsa de hamburguesa, ketchup, mostaza o mayonesa (opcional)\n
+    - Aceite vegetal o mantequilla para asar las hamburguesas\n
+    Preparación:\n
+    1. En un tazón, mezcla la carne molida con la sal y la pimienta. Divídela en 4 porciones iguales y forma cada una en una hamburguesa de aproximadamente 1 pulgada de grosor.\n
+    2. Calienta una parrilla o sartén a fuego medio-alto y unta con aceite o mantequilla para evitar que las hamburguesas se peguen.\n
+    3. Cocina las hamburguesas durante aproximadamente 3-4 minutos por cada lado para un punto término medio, ajustando el tiempo según tu preferencia de cocción.\n
+    4. Si deseas agregar queso, coloca una loncha de queso sobre cada hamburguesa durante los últimos minutos de cocción y cubre la parrilla o sartén para que el queso se derrita.\n
+    5. Mientras se cocinan las hamburguesas, puedes tostar los bollos de hamburguesa en la parrilla o en una tostadora.\n
+    6. Monta las hamburguesas colocando una hoja de lechuga, una hamburguesa cocida, tomate, cebolla, pepinillos y otros condimentos al gusto en los bollos de hamburguesa.\n
+    7. Agrega salsa de hamburguesa, ketchup, mostaza o mayonesa según tus preferencias.\n
+    8. Sirve las hamburguesas calientes y disfruta.\n
+    ¡Disfruta de tus hamburguesas caseras!
+
+    </string>
+
+    <string name="receta_pasta">
+    Preparar pasta es rápido y delicioso. Ingredientes:\n
+    - 8 oz (aproximadamente 225 gramos) de pasta (espaguetis, fettuccine, penne, etc.)\n
+    - Agua\n
+    - Sal\n
+    - 2 cucharadas de aceite de oliva (opcional)\n
+    - Salsa de tomate o pesto (o la salsa de tu elección)\n
+    - Queso parmesano rallado (opcional)\n
+    Preparación:\n
+    1. Llena una olla grande con agua y agrégale sal. Lleva el agua a ebullición.\n
+    2. Agrega la pasta a la olla hirviendo y cocina siguiendo las instrucciones del paquete hasta que esté al dente (cocida pero aún firme al morderla). Esto suele tomar entre 8 y 12 minutos, dependiendo del tipo de pasta.\n
+    3. Mientras se cocina la pasta, puedes calentar la salsa de tomate o pesto en una sartén a fuego medio bajo. Agrega las 2 cucharadas de aceite de oliva si lo deseas para darle más sabor.\n
+    4. Una vez que la pasta esté cocida, escúrrela en un colador en el fregadero.\n
+    5. Regresa la pasta a la olla y añade la salsa caliente sobre la pasta. Mezcla bien para que la pasta quede bien cubierta con la salsa.\n
+    6. Sirve la pasta caliente en platos individuales y espolvorea queso parmesano rallado por encima si lo deseas.\n
+    7. Disfruta de tu deliciosa pasta casera.\n
+    ¡Buen provecho!
+    </string>
+
+    <string name="receta_pasteles_en_hoja">
+            Los pasteles en hoja son un platillo tradicional de la República Dominicana. Ingredientes:\n
+    Para la masa:\n
+    - 2 tazas de harina de maíz (harina de maíz precocida)\n
+    - 1 1/2 tazas de agua caliente\n
+    - 1/4 taza de aceite vegetal\n
+    - 1 cucharadita de sal\n
+    Para el relleno:\n
+    - 1 libra (aproximadamente 450 gramos) de carne de cerdo o res, cocida y desmenuzada (puede ser sazonada al gusto)\n
+    - 1/2 taza de aceitunas verdes sin hueso, picadas\n
+    - 1/2 taza de pasas (opcional)\n
+    - 1 cucharada de alcaparras (opcional)\n
+    - 1 cucharada de orégano en polvo\n
+    - 1 cucharadita de comino en polvo\n
+    - 1/2 taza de salsa de tomate\n
+    - Hojas de plátano o banana para envolver los pasteles\n
+    - Hilo de cocina para amarrar los pasteles\n
+    Preparación:\n
+    Para la masa:\n
+    1. En un tazón grande, mezcla la harina de maíz, el agua caliente, el aceite vegetal y la sal. Amasa hasta obtener una masa suave y maleable.\n
+    2. Divide la masa en pequeñas porciones del tamaño de una pelota de golf y reserva.\n
+    Para el relleno:\n
+    3. En otro recipiente, mezcla la carne cocida y desmenuzada con las aceitunas, pasas, alcaparras (si se utilizan), orégano en polvo, comino en polvo y salsa de tomate. Asegúrate de que todo esté bien combinado.\n
+    Armado de los pasteles:\n
+    4. Lava y seca las hojas de plátano o banana y córtalas en cuadrados de aproximadamente 8x8 pulgadas.\n
+    5. Coloca una porción de masa en el centro de cada hoja de plátano.\n
+    6. Agrega una porción de relleno encima de la masa.\n
+    7. Doble la hoja de plátano sobre el relleno y la masa, formando un paquete rectangular.\n
+    8. Amarra los pasteles con hilo de cocina para que mantengan su forma durante la cocción.\n
+    Cocina los pasteles:\n
+    9. Hierve agua en una olla grande y agrega los pasteles. Cocina a fuego medio durante aproximadamente 45 minutos a 1 hora, o hasta que estén cocidos y la masa esté firme.\n
+    10. Retira los pasteles del agua y déjalos enfriar antes de desatarlos y servir.\n
+    ¡Disfruta de tus pasteles en hoja, una deliciosa tradición dominicana!
+    </string>
+
+    <string name="receta_nino_envuelto_dominicano">
+    El nino envuelto es un plato dominicano delicioso y reconfortante. Ingredientes:\n
+    Para la masa:\n
+    - 2 tazas de harina de maíz (harina de maíz precocida)\n
+    - 1/2 taza de azúcar\n
+    - 2 tazas de agua\n
+    - 1/2 taza de aceite vegetal\n
+    - 1 cucharadita de sal\n
+    - 1 cucharadita de canela en polvo\n
+    - Hojas de plátano o banana para envolver los ninos envueltos\n
+    Para el relleno:\n
+    - 1 taza de arroz\n
+    - 2 tazas de leche de coco\n
+    - 1 taza de azúcar\n
+    - 1 cucharadita de vainilla (opcional)\n
+    - 1/2 taza de pasas (opcional)\n
+    - 1/2 taza de coco rallado (opcional)\n
+    Preparación:\n
+    Para la masa:\n
+    1. En un tazón grande, mezcla la harina de maíz, el azúcar, el agua, el aceite vegetal, la sal y la canela en polvo. Amasa hasta obtener una masa suave y maleable.\n
+    2. Divide la masa en pequeñas porciones del tamaño de una pelota de golf y reserva.\n
+    Para el relleno:\n
+    3. En una cacerola, mezcla el arroz con la leche de coco y lleva a ebullición. Reduce el fuego, tapa y cocina a fuego lento hasta que el arroz esté cocido y haya absorbido la leche de coco (aproximadamente 20-25 minutos).\n
+    4. Agrega el azúcar, la vainilla (si se utiliza), las pasas (si se utilizan) y el coco rallado (si se utiliza). Cocina a fuego lento durante unos minutos hasta que el relleno esté espeso y bien mezclado.\n
+    Armado de los ninos envueltos:\n
+    5. Lava y seca las hojas de plátano o banana y córtalas en cuadrados de aproximadamente 8x8 pulgadas.\n
+    6. Coloca una porción de masa en el centro de cada hoja de plátano.\n
+    7. Agrega una porción de relleno de arroz sobre la masa.\n
+    8. Doble la hoja de plátano sobre el relleno y la masa, formando un paquete rectangular.\n
+    Cocina los ninos envueltos:\n
+    9. Amarra los ninos envueltos con hilo de cocina para que mantengan su forma durante la cocción.\n
+    10. Hierve agua en una olla grande y agrega los ninos envueltos. Cocina a fuego medio durante aproximadamente 45 minutos a 1 hora, o hasta que estén cocidos y la masa esté firme.\n
+    11. Retira los ninos envueltos del agua y déjalos enfriar antes de desatarlos y servir.\n
+    ¡Disfruta de tus ninos envueltos dominicanos, un auténtico sabor de la República Dominicana!
+</string>
+
+    <string name="recete_crema_de_verduras_con_espárragos_y_espinacas">
+    La crema de verduras con espárragos y espinacas es una opción saludable y deliciosa. Ingredientes:\n
+    - 1 manojo de espárragos, aproximadamente 250 gramos\n
+    - 2 tazas de espinacas frescas\n
+    - 1 cebolla mediana, picada\n
+    - 2 dientes de ajo, picados\n
+    - 4 tazas de caldo de verduras (o agua)\n
+    - 1 papa mediana, pelada y cortada en cubos\n
+    - 1 zanahoria, pelada y cortada en rodajas\n
+    - 1/2 taza de crema de leche (opcional)\n
+    - 2 cucharadas de aceite de oliva\n
+    - Sal y pimienta al gusto\n
+    Preparación:\n
+    1. Lava y corta los extremos duros de los espárragos. Luego, corta los espárragos en trozos más pequeños.\n
+    2. En una cacerola grande, calienta el aceite de oliva a fuego medio. Agrega la cebolla y el ajo picados y saltea hasta que estén tiernos y fragantes, unos 3-4 minutos.\n
+    3. Agrega los espárragos, las espinacas, la papa y la zanahoria a la cacerola. Cocina por unos minutos, removiendo ocasionalmente.\n
+    4. Vierte el caldo de verduras o agua en la cacerola y lleva la mezcla a ebullición. Luego, reduce el fuego y cocina a fuego lento durante unos 20-25 minutos, o hasta que las verduras estén tiernas.\n
+    5. Utiliza una licuadora de mano o una licuadora de alta potencia para triturar la mezcla hasta obtener una crema suave y homogénea.\n
+    6. Si deseas una crema más espesa, puedes agregar la crema de leche y mezclar bien. Añade sal y pimienta al gusto.\n
+    7. Vuelve a calentar la crema a fuego lento antes de servir.\n
+    8. Sirve caliente y disfruta de esta deliciosa crema de verduras con espárragos y espinacas.\n
+    ¡Buen provecho!
+</string>
+
+    <string name="receta_sopa_de_verduras_en_juliana">
+    La sopa de verduras en juliana es una opción reconfortante y saludable. Ingredientes:\n
+    - 1 zanahoria\n
+    - 1 calabacín\n
+    - 1 papa\n
+    - 1 cebolla\n
+    - 2 dientes de ajo\n
+    - 1 taza de judías verdes (ejotes)\n
+    - 1 taza de col o repollo\n
+    - 8 tazas de caldo de verduras (o agua)\n
+    - 2 cucharadas de aceite de oliva\n
+    - Sal y pimienta al gusto\n
+    - Perejil fresco picado para decorar (opcional)\n
+    Preparación:\n
+    1. Lava y pela la zanahoria, el calabacín, la papa y la cebolla. Luego, córtalos en tiras finas o en juliana. Puedes usar un rallador de juliana si lo tienes.\n
+    2. En una cacerola grande, calienta el aceite de oliva a fuego medio. Agrega la cebolla y el ajo picados y saltea hasta que estén tiernos y fragantes, unos 3-4 minutos.\n
+    3. Agrega las zanahorias, las judías verdes (ejotes) y las papas a la cacerola. Cocina por unos minutos, removiendo ocasionalmente.\n
+    4. Vierte el caldo de verduras o agua en la cacerola y lleva la mezcla a ebullición. Luego, reduce el fuego y cocina a fuego lento durante unos 15-20 minutos, o hasta que las verduras estén tiernas.\n
+    5. Agrega el calabacín y la col o repollo a la sopa y cocina por unos minutos adicionales hasta que estén tiernos, pero aún crujientes.\n
+    6. Añade sal y pimienta al gusto.\n
+    7. Sirve caliente, decorando con perejil fresco picado si lo deseas.\n
+    ¡Disfruta de esta sopa de verduras en juliana, llena de sabor y nutrición!
+</string>
+
+    <string name="receta_Crema_de_calabacín_fácil">
+    La crema de calabacín es una sopa cremosa y deliciosa que se prepara fácilmente. Ingredientes:\n
+    - 4 calabacines medianos\n
+    - 1 cebolla\n
+    - 2 dientes de ajo\n
+    - 1 papa grande\n
+    - 4 tazas de caldo de verduras (o agua)\n
+    - 2 cucharadas de aceite de oliva\n
+    - Sal y pimienta al gusto\n
+    - 1/2 taza de crema de leche o nata (opcional, para darle mayor cremosidad)\n
+    - Perejil fresco picado para decorar (opcional)\n
+    Preparación:\n
+    1. Lava y corta los calabacines en rodajas gruesas. Pela y pica la cebolla y los dientes de ajo.\n
+    2. En una olla grande, calienta el aceite de oliva a fuego medio. Agrega la cebolla y el ajo picados y saltea hasta que estén tiernos y fragantes, unos 3-4 minutos.\n
+    3. Añade los calabacines y la papa (pelada y cortada en cubos) a la olla y cocina por unos minutos, removiendo ocasionalmente.\n
+    4. Vierte el caldo de verduras (o agua) en la olla y lleva la mezcla a ebullición. Luego, reduce el fuego y cocina a fuego lento durante unos 20-25 minutos, o hasta que las verduras estén tiernas.\n
+    5. Utiliza una licuadora de mano o una licuadora de alta potencia para triturar la mezcla hasta obtener una crema suave y homogénea.\n
+    6. Si deseas una crema más cremosa, puedes agregar la crema de leche o nata y mezclar bien. Añade sal y pimienta al gusto.\n
+    7. Vuelve a calentar la crema a fuego lento antes de servir.\n
+    8. Sirve caliente, decorando con perejil fresco picado si lo deseas.\n
+    ¡Disfruta de esta deliciosa y reconfortante crema de calabacín fácil!
+</string>
+
+
+    <string name="receta_helado">
+    Preparar helado casero es una delicia. Ingredientes:\n
+    - 2 tazas de crema para batir (nata para montar)\n
+    - 1 taza de leche entera\n
+    - 1 taza de azúcar\n
+    - 2 cucharaditas de extracto de vainilla\n
+    - Pizca de sal\n
+    Opcionales (para saborizar el helado):\n
+    - 1 taza de frutas frescas, como fresas, plátanos o moras (opcional)\n
+    - 1/2 taza de chocolate derretido (opcional)\n
+    - Frutos secos picados (opcional)\n
+    Preparación:\n
+    1. En un tazón grande, mezcla la crema para batir (nata para montar), la leche, el azúcar, el extracto de vainilla y una pizca de sal. Mezcla bien hasta que el azúcar se disuelva completamente.\n
+    2. Si deseas darle sabor al helado, puedes agregar las frutas frescas, el chocolate derretido o los frutos secos en este punto.\n
+    3. Vierte la mezcla en una máquina de helados siguiendo las instrucciones del fabricante. Si no tienes una máquina de helados, puedes congelar la mezcla en un recipiente apto para el congelador, batiendo cada 30 minutos hasta que adquiera la consistencia deseada.\n
+    4. Una vez que el helado esté listo, sírvelo en copas o conos y disfruta.\n
+    5. Puedes decorar con toppings como chocolate rallado, nueces, o frutas adicionales si lo deseas.\n
+    ¡Disfruta de tu helado casero refrescante y delicioso!
+    </string>
+
+    <string name="receta_tarta_de_Chocolate">
+    Preparar una tarta de chocolate es un placer irresistible. Ingredientes:\n
+    Para la base de galleta:\n
+    - 1 1/2 tazas de galletas de chocolate trituradas (aproximadamente 150 gramos)\n
+    - 1/2 taza de mantequilla derretida (aproximadamente 113 gramos)\n
+    Para el relleno de chocolate:\n
+    - 2 tazas de chocolate semidulce picado (aproximadamente 350 gramos)\n
+    - 1 1/2 tazas de crema para batir (nata para montar)\n
+    - 2 cucharadas de azúcar\n
+    - 1 cucharadita de extracto de vainilla\n
+    - Pizca de sal\n
+    Opcionales (para decorar):\n
+    - Nata montada\n
+    - Fresas o frutos rojos\n
+    - Chocolate rallado\n
+    Preparación:\n
+    Para la base de galleta:\n
+    1. Tritura las galletas de chocolate hasta obtener migajas finas. Esto puede hacerse usando una bolsa de plástico y un rodillo o procesador de alimentos.\n
+    2. En un tazón, mezcla las migajas de galletas con la mantequilla derretida hasta que estén bien combinadas.\n
+    3. Presiona la mezcla de galletas en el fondo de un molde para tarta desmontable, formando una base uniforme. Refrigera mientras preparas el relleno.\n
+    Para el relleno de chocolate:\n
+    4. En una cacerola, calienta la crema para batir (nata para montar) a fuego medio hasta que esté caliente, pero sin hervir.\n
+    5. Retira la cacerola del fuego y agrega el chocolate picado. Remueve hasta que el chocolate se derrita por completo y la mezcla esté suave.\n
+    6. Agrega el azúcar, el extracto de vainilla y una pizca de sal. Mezcla bien.\n
+    7. Vierte la mezcla de chocolate sobre la base de galleta en el molde.\n
+    8. Refrigera la tarta durante al menos 3-4 horas o hasta que el relleno de chocolate esté firme.\n
+    9. Si lo deseas, decora la tarta con nata montada, fresas, frutos rojos o chocolate rallado antes de servir.\n
+    10. Corta en porciones y disfruta de tu irresistible tarta de chocolate.\n
+    ¡Disfruta de este placer chocolatoso!
+</string>
+
+    <string name="receta_Brownie_de_Chocolate">
+    Los brownies de chocolate son una delicia irresistible. Ingredientes:\n
+    - 1/2 taza de mantequilla (aproximadamente 113 gramos)\n
+    - 1 taza de azúcar\n
+    - 2 huevos\n
+    - 1 cucharadita de extracto de vainilla\n
+    - 1/3 taza de cacao en polvo\n
+    - 1/2 taza de harina de trigo\n
+    - 1/4 cucharadita de sal\n
+    - 1/4 cucharadita de bicarbonato de sodio\n
+    Opcionales (para añadir sabor o textura):\n
+    - 1/2 taza de nueces picadas\n
+    - 1/2 taza de chips de chocolate\n
+    Preparación:\n
+    1. Precalienta el horno a 180°C (350°F) y engrasa un molde cuadrado o rectangular de aproximadamente 20x20 cm.\n
+    2. En un recipiente apto para microondas o en una cacerola, derrite la mantequilla. Luego, agrega el azúcar y mezcla bien.\n
+    3. Añade los huevos y el extracto de vainilla a la mezcla de mantequilla y azúcar. Bate hasta que estén bien combinados.\n
+    4. En otro recipiente, mezcla el cacao en polvo, la harina, la sal y el bicarbonato de sodio.\n
+    5. Incorpora los ingredientes secos a la mezcla de mantequilla y huevos. Mezcla hasta obtener una masa homogénea.\n
+    6. Si lo deseas, agrega las nueces picadas y los chips de chocolate a la masa y mézclalos.\n
+    7. Vierte la mezcla en el molde preparado y extiéndela de manera uniforme.\n
+    8. Hornea en el horno precalentado durante aproximadamente 20-25 minutos, o hasta que un palillo insertado en el centro salga con migajas húmedas, pero no líquidas.\n
+    9. Deja enfriar en el molde durante unos minutos antes de cortar en porciones.\n
+    10. ¡Disfruta de tus deliciosos brownies de chocolate!
+</string>
+
+    <string name="receta_Churros_Caseros">
+    Los churros caseros son una delicia crujiente y deliciosa. Ingredientes:\n
+    - 1 taza de agua\n
+    - 2 cucharadas de azúcar\n
+    - 2 cucharadas de aceite vegetal\n
+    - 1/2 cucharadita de sal\n
+    - 1 taza de harina de trigo\n
+    - Aceite para freír\n
+    - Azúcar y canela para espolvorear (opcional)\n
+    Preparación:\n
+    1. En una cacerola, calienta el agua, el azúcar, el aceite vegetal y la sal a fuego medio hasta que hierva.\n
+    2. Retira la cacerola del fuego y agrega la harina de trigo de una sola vez. Mezcla vigorosamente hasta que la masa esté suave y se despegue de las paredes de la cacerola.\n
+    3. Coloca la masa en una manga pastelera con una boquilla estriada o en una bolsa de plástico resistente con un pequeño agujero en una de las esquinas.\n
+    4. Calienta abundante aceite en una sartén profunda a fuego medio-alto.\n
+    5. Exprime la masa en el aceite caliente en tiras largas o círculos, y córtalos con unas tijeras. Fría hasta que estén dorados y crujientes, aproximadamente 2-4 minutos por lado.\n
+    6. Retira los churros del aceite con una espumadera y colócalos sobre papel absorbente para eliminar el exceso de grasa.\n
+    7. Opcionalmente, mezcla azúcar y canela en un plato y rodéa los churros en esta mezcla para que queden cubiertos de azúcar y canela.\n
+    8. Sirve tus churros caseros calientes y disfrútalos.\n
+    ¡Disfruta de estos deliciosos churros caseros, ideales para acompañar con chocolate caliente o café!
+</string>
+
+    <string name="receta_dulce_de_Leche_Casero">
+    El dulce de leche casero es una delicia dulce y cremosa. Ingredientes:\n
+    - 1 lata de leche condensada (400 gramos)\n
+    - 1 cucharadita de esencia de vainilla (opcional)\n
+    Preparación:\n
+    1. Retira la etiqueta de la lata de leche condensada y asegúrate de que no tenga ningún agujero ni daño en la lata.\n
+    2. Coloca la lata sin abrir en una olla grande y cúbrela completamente con agua fría.\n
+    3. Lleva la olla a ebullición a fuego alto.\n
+    4. Una vez que el agua esté hirviendo, reduce el fuego a bajo y deja que la lata hierva suavemente durante 2 a 3 horas. Es importante mantener la lata completamente sumergida en agua en todo momento para evitar que explote.\n
+    5. Después de 2 a 3 horas de cocción, retira la lata del agua caliente con unas pinzas y déjala enfriar a temperatura ambiente.\n
+    6. Una vez que la lata esté completamente fría, ábrela con cuidado. Dentro encontrarás dulce de leche casero espeso y caramelizado.\n
+    7. Si lo deseas, puedes agregar la esencia de vainilla y mezclar bien para darle sabor.\n
+    8. Transfiere el dulce de leche casero a un recipiente hermético y guárdalo en el refrigerador. Se espesará aún más a medida que se enfríe.\n
+    9. Disfruta de tu dulce de leche casero en galletas, pan, panqueques, tortas o simplemente a cucharadas.\n
+    ¡Disfruta de esta deliciosa y dulce creación casera!
+</string>
+    <string name="Pastelon_de_Platano_Maduro">
+    El pastelón de plátano maduro es un platillo delicioso y reconfortante. Ingredientes:\n
+    Para el plátano maduro:\n
+    - 4 plátanos maduros, pelados y cortados en rodajas largas\n
+    - Aceite vegetal para freír\n
+    Para el picadillo de carne:\n
+    - 1 libra (aproximadamente 450 gramos) de carne molida de res o cerdo\n
+    - 1 cebolla, picada\n
+    - 1 pimiento rojo, picado\n
+    - 2 dientes de ajo, picados\n
+    - 1 taza de salsa de tomate\n
+    - 1/2 taza de aceitunas verdes rellenas de pimiento, picadas\n
+    - 1/2 taza de pasas (opcional)\n
+    - Comino en polvo, orégano, sal y pimienta al gusto\n
+    Para el relleno de queso:\n
+    - 2 tazas de queso mozzarella rallado\n
+    Preparación:\n
+    Para el plátano maduro:\n
+    1. Calienta el aceite en una sartén grande a fuego medio.\n
+    2. Fría las rodajas de plátano maduro hasta que estén doradas y tiernas. Luego, colócalas sobre papel absorbente para eliminar el exceso de aceite.\n
+    Para el picadillo de carne:\n
+    3. En una sartén grande, cocina la carne molida a fuego medio-alto hasta que se dore. Drena cualquier exceso de grasa.\n
+    4. Agrega la cebolla, el pimiento rojo, el ajo y cocina hasta que las verduras estén tiernas.\n
+    5. Agrega la salsa de tomate, las aceitunas picadas, las pasas (si se utilizan) y las especias (comino, orégano, sal y pimienta) al gusto. Cocina a fuego medio durante unos minutos hasta que la mezcla esté bien combinada y espesa.\n
+    Para ensamblar el pastelón:\n
+    6. En un molde para horno, coloca una capa de plátano maduro frito en el fondo.\n
+    7. Agrega una capa de picadillo de carne sobre los plátanos.\n
+    8. Luego, coloca una capa de queso mozzarella rallado.\n
+    9. Repite las capas hasta que hayas utilizado todos los ingredientes, terminando con una capa de plátano maduro y queso por encima.\n
+    10. Hornea a 180°C (350°F) durante unos 20-25 minutos, o hasta que el queso se derrita y el pastelón esté dorado.\n
+    11. Deja reposar durante unos minutos antes de cortar y servir.\n
+    ¡Disfruta de este sabroso pastelón de plátano maduro, una delicia caribeña!
+</string>
+
+
+
+
+
+</resources>
